@@ -9,3 +9,11 @@ npx create-react-app my-app --typescript
 
 yarn create react-app my-app --typescript
 ```
+
+
+will begin soon:  
+https://www.youtube.com/results?search_query=Using+Typescript+in+React
+
+
+next step 
+svelte / elm / rust / webassembly
